@@ -1,0 +1,22 @@
+{
+  "name": "athena_gb_collector",
+  "version": "0.0.0",
+  "description": "搜集公共组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyjo2014/athena_gb_collector.git"
+  },
+  "keywords": [
+    "athena"
+  ],
+  "author": "kyjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyjo2014/athena_gb_collector/issues"
+  },
+  "homepage": "https://github.com/kyjo2014/athena_gb_collector#readme"
+}
